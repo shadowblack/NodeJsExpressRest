@@ -17,6 +17,9 @@ Los plus son adicionales que suman valor a tu ejercicio, aunque no son obligator
 *Uso de herramientas como webpack, gulp o algun gestor de tareas.
 
 #Modelo de respuesta:
+
+
+
 {	
 	"hotels" : [
 
